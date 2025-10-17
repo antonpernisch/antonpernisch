@@ -1,6 +1,6 @@
 ### Hi there, I'm [esec!](https://esec.sk) 👋
 
-Hi, I'm Anton Pernisch (esec), a passionate self-taught software developer and IT professional.
+Hi, I'm Anton Pernisch (esec), a passionate IT manager, IT professional and software & systems engineer.
 
 
 **Languages and Tools:**  
